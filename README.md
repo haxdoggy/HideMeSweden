@@ -21,3 +21,7 @@ https://mrkoll.se/om/andra-uppgifter/
 - Använd en gedigen lösenordshanterare som funkar på alla plattformar: https://bitwarden.com/
 - Dölj dina DNS-förfrågningar, undvik spårande annonser, scams och malware: https://nextdns.io/
 - Härda din Windowsdator: https://github.com/beerisgood/Windows11_Hardening
+- Använd en VPN: https://mullvad.net
+- Använd en säker mail: https://proton.me
+
+Lägg inte alla ägg i samma kort. Det vill säga: Även om tex Proton erbjuder både VPN och lösenordshanterare eller att iPhone har en inbyggd lösenordshanterare så är det klokt att separera dina olika tjänster.
