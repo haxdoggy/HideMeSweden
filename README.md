@@ -23,5 +23,6 @@ https://mrkoll.se/om/andra-uppgifter/
 - Härda din Windowsdator: https://github.com/beerisgood/Windows11_Hardening
 - Använd en VPN: https://mullvad.net
 - Använd en säker mail: https://proton.me
+- Använd en privacy-baserad webbläsare förslagsvis Brave eller Mullvad Browser
 
-Lägg inte alla ägg i samma kort. Det vill säga: Även om tex Proton erbjuder både VPN och lösenordshanterare eller att iPhone har en inbyggd lösenordshanterare så är det klokt att separera dina olika tjänster.
+Lägg inte alla ägg i samma kort. Det vill säga: Även om tex Proton erbjuder både VPN och lösenordshanterare eller att iPhone har en inbyggd lösenordshanterare så är det klokt att separera dina olika tjänster. Om en av tjänsterna ligger nere eller blir hackad har du fortfarande åtkomst till övriga.
